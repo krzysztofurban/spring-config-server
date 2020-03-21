@@ -1,0 +1,16 @@
+server:
+  port: 8888
+  servlet:
+    context-path: /config
+
+#spring:
+#  boot:
+#    admin:
+#      client:
+#        url: http://localhost:7777/admin
+#
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: "*"
